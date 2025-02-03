@@ -1,0 +1,7 @@
+.menuBar {
+    background-color: #DDDDDD;
+    border-bottom: 2px solid #000000;
+    position:absolute;
+    height:25px;
+    width:100%;
+}
